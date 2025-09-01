@@ -1,13 +1,13 @@
-#define BLYNK_TEMPLATE_ID "TMPL6nNHNa2KT"
-#define BLYNK_TEMPLATE_NAME "Mini Project"
-#define BLYNK_AUTH_TOKEN "SOzKnlGunGDxiteMQQK86Oh0pCnO5tfA"
+#define BLYNK_TEMPLATE_ID "xxxxxxxxxxxxx"
+#define BLYNK_TEMPLATE_NAME "Template Name"
+#define BLYNK_AUTH_TOKEN "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 #include <DFRobot_DHT11.h>
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char ssid[] = "Pixel_TS";
-char pass[] = "19680513";
+char ssid[] = "Your ssid";
+char pass[] = "Your password";
 
 #define DHT11_PIN 4
 #define LED_PIN   5
