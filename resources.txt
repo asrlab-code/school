@@ -1,2 +1,8 @@
-ESP8266 Board Manager
+- CP210x Universal Windows Driver
+https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
+
+- ESP8266 Board Manager
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+- SimpleTimer
+https://github.com/jfturcot/SimpleTimer
