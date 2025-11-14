@@ -1,5 +1,3 @@
 Resources for
-
-Buranaramluk School
-
-September 1/3, 2025
+Micro:bit Training
+November 15-16, 2025
